@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+    margin: 0; padding: 0;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    background: #0f172a;
+    overflow-x: hidden;
+}
+
+/* Background Animation */
+.area {
+    background: linear-gradient(to left, #2c3e50, #000000);
+    width: 100%; height: 100vh;
+    position: fixed; z-index: -1;
+}
+
+.circles li {
+    position: absolute; display: block; list-style: none;
+    width: 20px; height: 20px; background: rgba(255, 255, 255, 0.1);
+    animation: animate 25s linear infinite; bottom: -150px;
+}
+
+@keyframes animate {
+    0% { transform: translateY(0) rotate(0deg); opacity: 1; border-radius: 0; }
+    100% { transform: translateY(-1000px) rotate(720deg); opacity: 0; border-radius: 50%; }
+}
+
+.circles li:nth-child(1) { left: 25%; width: 80px; height: 80px; animation-delay: 0s; }
+.circles li:nth-child(2) { left: 10%; width: 20px; height: 20px; animation-delay: 2s; animation-duration: 12s; }
+.circles li:nth-child(3) { left: 70%; width: 20px; height: 20px; animation-delay: 4s; }
+.circles li:nth-child(4) { left: 40%; width: 60px; height: 60px; animation-delay: 0s; animation-duration: 18s; }
+
+/* Glassmorphism */
+.glass {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 20px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+}
+
+.container { max-width: 900px; margin: 0 auto; padding: 40px 20px; text-align: center; }
+.box { margin-bottom: 25px; padding: 30px; transition: 0.3s; }
+.box:hover { transform: translateY(-5px); background: rgba(255, 255, 255, 0.08); }
+
+h1 { font-size: 3rem; margin-bottom: 10px; color: #fff; }
+.subtitle { font-size: 1.2rem; color: #38bdf8; min-height: 1.5em; font-weight: 300; }
+
+/* Progress Bars */
+.skill-item { margin-bottom: 20px; text-align: left; }
+.progress-bar { background: rgba(255,255,255,0.1); border-radius: 10px; height: 8px; margin-top: 8px; }
+.progress { background: #38bdf8; height: 100%; border-radius: 10px; transition: 1.5s ease-in-out; }
+.progress.creative { background: #c084fc; } /* Purple for soft skills */
+
+.flex-container { display: flex; gap: 20px; flex-wrap: wrap; }
+.skill-box { flex: 1; min-width: 300px; }
+
+/* Hobbies & Socials */
+.hobbies { display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; }
+.hobbies span { background: rgba(255,255,255,0.1); padding: 8px 15px; border-radius: 20px; font-size: 0.85rem; border: 1px solid rgba(255,255,255,0.1); }
+
+.social-links { margin-top: 40px; display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; }
+.social-icon { 
+    background: rgba(255,255,255,0.05); padding: 12px 25px; border-radius: 50px; 
+    color: white; text-decoration: none; display: flex; align-items: center; gap: 10px;
+    border: 1px solid rgba(255,255,255,0.1); transition: 0.3s; font-weight: 600;
+}
+.social-icon:hover { background: #38bdf8; border-color: #38bdf8; color: #0f172a; transform: scale(1.05); }
