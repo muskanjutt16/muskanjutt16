@@ -1,19 +1,20 @@
+<div align="center">
 
+# ✨ Muskan ✨
 
-```markdown
-# 👋 Hi, I'm Muskan
-
-**🎨 Learning Frontend Development**  
-**💻 HTML | CSS | JavaScript**
+### 🎨 Learning Frontend Development  
+### 💻 HTML | CSS | JavaScript
 
 ---
 
+</div>
+
 ## 📌 About Me
 
-- 🎯 Looking for: **Frontend Internship (Remote)**
-- 📚 Currently learning: **JavaScript, React**
-- 💻 I know: **HTML, CSS, Basic JavaScript**
-- 📧 Email: **imtiazmuskan230@gmail.com**
+- 🎯 **Looking for:** Frontend Internship (Remote)
+- 📚 **Currently Learning:** JavaScript, React
+- ✅ **I Know:** HTML, CSS, Basic JavaScript
+- 📧 **Email:** imtiazmuskan230@gmail.com
 
 ---
 
@@ -24,60 +25,60 @@
 | HTML5 | ✅ Good |
 | CSS3 | ✅ Good |
 | JavaScript | 🔄 Learning |
-| React | ⏳ Soon |
+| React | 📅 Coming Soon |
 
 ---
 
 ## 🚀 My Projects
 
-| Project | What I Used |
-|---------|--------------|
+| Project | Technologies Used |
+|---------|-------------------|
 | Personal Portfolio | HTML, CSS |
 | Simple Landing Page | HTML, CSS |
-| Basic Calculator | HTML, CSS, JS |
+| Basic Calculator | HTML, CSS, JavaScript |
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskanjutt16yrr&show_icons=true&theme=dracula)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskanjutt16yrr&layout=compact&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=muskanjutt16yrr&show_icons=true&theme=dracula" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanjutt16yrr&layout=compact&theme=dracula" width="48%" />
+
+</div>
 
 ---
 
 ## 💼 Internship Goal
 
-I am a beginner frontend developer learning HTML, CSS, and JavaScript. I am looking for a **remote internship** where I can learn and grow. I am hardworking and ready to improve my skills.
+I am a beginner frontend developer learning **HTML, CSS, and JavaScript**. I am looking for a **remote internship** where I can learn, grow, and contribute. I am hardworking and ready to improve my skills every day.
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
-- **Email:** imtiazmuskan230@gmail.com
-- **GitHub:** https://github.com/muskanjutt16yrr
+- 📧 **Email:** imtiazmuskan230@gmail.com
+- 🐙 **GitHub:** https://github.com/muskanjutt16yrr
 
 ---
 
 ## 🌟 My Portfolio
 
-[Click here to view my portfolio](https://your-portfolio-link.netlify.app)
-
-*(Update this link with your actual portfolio link)*
+> 🔗 [Click here to view my portfolio](https://your-portfolio-link.netlify.app)  
+> *(Update this link with your actual portfolio link)*
 
 ---
 
 ## 💬 Quote
 
-> "Every expert was once a beginner."
+> *"Every expert was once a beginner."*
 
 ---
 
+<div align="center">
+
 **© 2025 Muskan | Frontend Learner**
-```
 
-
-
-**Behan ko bolo ye code copy kare aur GitHub par paste kare!** 👧
-
-Koi aur help chahiye? 😊
+</div>
