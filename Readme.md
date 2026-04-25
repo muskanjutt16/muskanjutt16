@@ -1,33 +1,5 @@
 
 ```markdown
-<div align="center">
-
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Muskan;Frontend+Developer;Remote+Internship+Seeker" alt="Typing SVG" />
-
-### 🎨 Frontend Developer | Remote Internship Seeker  
-### 💻 HTML | CSS | JavaScript | React
-
-</div>
-
----
-
-## 📌 About Me
-
-```python
-class Muskan:
-    def __init__(self):
-        self.role = "Frontend Developer (Remote Intern)"
-        self.skills = ["HTML5", "CSS3", "JavaScript", "React", "Bootstrap", "Tailwind"]
-        self.interests = ["Web Design", "UI/UX", "Responsive Websites", "Remote Work"]
-        self.availability = "Immediate joining"
-        self.work_mode = "Remote / Work from Home"
-    
-    def currently_learning(self):
-        return "React Hooks + Firebase"
-    
-    def looking_for(self):
-        return "Frontend Internship (Remote)"
-```
 
 ---
 
@@ -66,16 +38,6 @@ class Muskan:
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muskanjutt16yrr&show_icons=true&theme=dracula&hide_border=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muskanjutt16yrr&theme=dracula&hide_border=true) |
-|:---:|:---:|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muskanjutt16yrr&layout=compact&theme=dracula&hide_border=true) | ![Profile Views](https://komarev.com/ghpvc/?username=muskanjutt16yrr&color=FF6B6B&style=flat-square) |
-
-</div>
 
 ---
 
@@ -145,7 +107,7 @@ Firebase    ██████░░░░░░░░░░░░░░░░�
 
 - 🚀 Applied for Frontend Internship (Remote)
 - 📓 Completed JavaScript Course
-- 💻 Built 4+ Frontend Projects
+- 💻 Built Frontend Projects
 - 🌐 Deployed Portfolio on Netlify
 
 ---
