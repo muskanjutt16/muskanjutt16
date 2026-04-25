@@ -39,15 +39,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=muskanjutt16yrr&show_icons=true&theme=dracula" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muskanjutt16yrr&layout=compact&theme=dracula" width="48%" />
-
-</div>
 
 ---
 
@@ -60,7 +51,7 @@ I am a beginner frontend developer learning **HTML, CSS, and JavaScript**. I am 
 ## 📫 Contact Me
 
 - 📧 **Email:** imtiazmuskan230@gmail.com
-- 🐙 **GitHub:** https://github.com/muskanjutt16yrr
+- 🐙 **GitHub:** https://github.com/muskanjutt16
 
 ---
 
